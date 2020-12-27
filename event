@@ -6,7 +6,7 @@
 		<meta property="og:url" content="https://luhyun95.github.io/Nomad-in-Seoul-landing/event"/>
 		<meta property="og:title" content="노마드 인 서울 이벤트"/>
 		<meta property="og:description" content="2021년 새해 목표 30일 챌린지"/>
-		<meta property="og:image" content="uploads/imagefromios3.jpg"/>
+		<meta property="og:image" content="https://imgbox.com/zlQorlBJ"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="icon" href="i/favicon.png" type="image/x-icon">
 		<!-- Google Fonts -->
@@ -37,10 +37,10 @@
 					</a>
 				</div>
 				<div class="col-lg-6" data-aos="fade-down" data-aos-delay="0">
-					<a href="index.html" class="link mx-15 color-main">
+					<a href="home" class="link mx-15 color-main">
 						HOME
 					</a>
-					<a href="index_event.html" class="link mx-15 color-main">
+					<a href="event" class="link mx-15 color-main">
 						EVENT
 					</a>
 					<a href="#" class="link mx-15 color-main">
