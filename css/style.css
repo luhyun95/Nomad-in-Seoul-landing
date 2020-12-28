@@ -319,7 +319,7 @@ b, strong {
   }
 
   h1 br, h2 br, h3 br, .text-adaptive br {
-    display: none;
+   display:block !important;
   }
 
   h1, h2 {
@@ -1403,7 +1403,7 @@ b, strong {
     margin-bottom: 10px;
   }
   .feature_1 .title br {
-    display: none;
+   display:block !important;
   }
 }
 
@@ -1650,7 +1650,7 @@ b, strong {
     margin-bottom: 50px;
   }
   .feature_17 h6 br {
-    display: none;
+   display:block !important;
   }
 }
 @media (max-width: 767.98px) {
