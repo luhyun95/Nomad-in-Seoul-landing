@@ -24,7 +24,7 @@
 /* 1. Common styles */
 
 body{
-	font-family:$font_main, Helvetica, Arial, sans-serif;
+	font-family:$font_main, Noto Sans KR, Arial, sans-serif;
 	font-weight:$font_main_weight;
 	font-size:$base_font_size;
 	line-height:$base_line_height;
@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6{
 	-webkit-margin-after: 0;
 	margin:0;
 	font-weight:$font_heading_weight;
-	font-family:$font_heading, Helvetica, Arial, sans-serif;
+	font-family:$font_heading, Noto Sans KR, Arial, sans-serif;
 }
 
 h1, h2{
@@ -323,7 +323,7 @@ b, strong{
 	}
 	h1, h2, h3, .text-adaptive{
 		br{
-/*			display:none; */
+/*			display: block ; */
 		}
 	}
 	h1, h2{
