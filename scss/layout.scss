@@ -323,7 +323,7 @@ b, strong{
 	}
 	h1, h2, h3, .text-adaptive{
 		br{
-/*			display: block ; */
+/*			display: block  !important; 
 		}
 	}
 	h1, h2{
@@ -1618,7 +1618,7 @@ b, strong{
 			margin-top:10px;
 			margin-bottom:10px;
 			br{
-				display:block;
+				display:block  !important;
 			}
 		}
 	}
@@ -1895,7 +1895,7 @@ b, strong{
 			margin-top:10px;
 			margin-bottom:50px;
 			br{
-				display:block;
+				display:block  !important;
 			}
 		}
 	}
